@@ -61,8 +61,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
 ~~~
 
 ## OUTPUT:
-![215264360-3af5640d-6aa3-4e06-9bde-633b8d2d6ee3](https://user-images.githubusercontent.com/118707265/215308215-359b122b-e4ff-4d2c-a98b-3d8088348c58.jpg)
-
+![image](https://user-images.githubusercontent.com/118707265/215314365-e53ec535-035d-49aa-bf34-927a812725a0.png)
 ## Result:
 The program to design, develop and deploy a web application for event registration is completed successfully.
 
